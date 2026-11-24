@@ -1,3 +1,14 @@
 {
-  "apps": []
+  "apps": [
+    {
+      "id": "rewind",
+      "name": "VIP Rewind",
+      "version": "0.6.14",
+      "notes": "Updates kommen jetzt aus dem zentralen VIP-Updates-Bereich (Vorbereitung für den VIP Hub).",
+      "desc": "Clips aus deinen Spielen – Hotkey drücken, die letzten Sekunden sind gesichert.",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.14.exe",
+      "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/",
+      "released": "2026-11-24T22:40:05.490Z"
+    }
+  ]
 }
