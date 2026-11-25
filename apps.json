@@ -13,12 +13,12 @@
     {
       "id": "hub",
       "name": "VIP Hub",
-      "version": "0.1.6",
-      "notes": "Neu: VIP Support – unten rechts die Chat-Blase anklicken und Fragen zu allen VIP-Seiten und Apps stellen.",
+      "version": "0.1.7",
+      "notes": "Neu: Spielebibliothek – alle deine Spiele aus Steam, Epic, Ubisoft, GOG, EA, Battle.net und FiveM an einem Ort, mit Bildern, Spielzeit und Spielen-Knopf. Freiwillig: sehen, wer aus der Lounge ein Spiel auch hat.",
       "desc": "Alle VIP-Apps an einem Ort, wer gerade online ist und was es Neues gibt.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.6.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.7.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/",
-      "released": "2026-11-25T16:35:05.059Z"
+      "released": "2026-11-25T21:20:17.862Z"
     },
     {
       "id": "mixer",
