@@ -4,7 +4,7 @@
       "id": "rewind",
       "name": "VIP Rewind",
       "version": "0.6.15",
-      "notes": "Neu: Hinweis auf den VIP Hub, die neue Zentrale für alle VIP-Apps. Einmal wegklicken und er ist weg.",
+      "notes": "Neu: Hinweis auf das VIP Hub, die neue Zentrale für alle VIP-Apps. Einmal wegklicken und er ist weg.",
       "desc": "Clips aus deinen Spielen – Hotkey drücken, die letzten Sekunden sind gesichert.",
       "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.15.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/",
@@ -13,12 +13,12 @@
     {
       "id": "hub",
       "name": "VIP Hub",
-      "version": "0.1.1",
-      "notes": "Kein Flackern mehr beim Installieren und Aktualisieren, ruhigere und flüssigere Oberfläche.",
+      "version": "0.1.2",
+      "notes": "Neu: Browser für die VIP-Seiten direkt im Hub (Web-Ordner), Einstellungen als eigene Seite, Apps automatisch aktualisieren, im Tray weiterlaufen mit Update-Karte, Deinstallieren-Knopf, Discord öffnen und das Bugs Center.",
       "desc": "Alle VIP-Apps an einem Ort, wer gerade online ist und was es Neues gibt.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.1.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.2.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/",
-      "released": "2026-11-25T00:19:34.126Z"
+      "released": "2026-11-25T01:59:54.775Z"
     }
   ]
 }

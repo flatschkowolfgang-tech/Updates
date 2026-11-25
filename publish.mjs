@@ -2,7 +2,7 @@
 // |   M   &   N       |
 // +-------------------+
 //
-// VIP Updates – eine neue App-Version in dieses Repo hochladen (fuer ALLE Apps, die in den VIP Hub kommen)
+// VIP Updates – eine neue App-Version in dieses Repo hochladen (fuer ALLE Apps, die in das VIP Hub kommen)
 //
 //   node publish.mjs --app rewind --name "VIP Rewind" --version 0.6.14 --dir <Ordner mit den Dateien>
 //                    --setup VIP-Rewind-Setup-0.6.14.exe --notes "Was ist neu" [--desc "Kurzbeschreibung"]
@@ -11,7 +11,7 @@
 //   1. Release mit festem Namen = App-Kennung (z. B. "rewind") anlegen, falls es fehlt
 //   2. Setup + .blockmap + .sig hochladen, latest.yml ZULETZT (damit niemand eine halbe Version sieht)
 //   3. Alte Setup-Dateien aufraeumen (die letzten KEEP Versionen bleiben fuer laufende Downloads)
-//   4. apps.json (App-Liste fuer den Hub) aktualisieren, committen, pushen
+//   4. apps.json (App-Liste fuer das Hub) aktualisieren, committen, pushen
 // Braucht: GitHub CLI (gh), angemeldet mit `gh auth login`.
 import { execFileSync, spawnSync } from "node:child_process";
 import fs from "node:fs";
@@ -84,7 +84,7 @@ for (const v of versions.slice(0, Math.max(0, versions.length - KEEP))) {
   }
 }
 
-// ---------- 4. App-Liste fuer den Hub ----------
+// ---------- 4. App-Liste fuer das Hub ----------
 step("Aktualisiere apps.json …");
 const appsFile = path.join(ROOT, "apps.json");
 const data = fs.existsSync(appsFile) ? JSON.parse(fs.readFileSync(appsFile, "utf8")) : { apps: [] };
