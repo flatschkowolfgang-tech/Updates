@@ -23,12 +23,12 @@
     {
       "id": "mixer",
       "name": "VIP Mixer",
-      "version": "0.1.1",
-      "notes": "Du wirst automatisch angemeldet, wenn du im VIP Hub angemeldet bist (inkl. Abzeichen). Profilbild lädt wieder.",
+      "version": "0.1.2",
+      "notes": "VIP-Apps wie VIP Hub und VIP Rewind erscheinen im Mixer mit ihrem echten Symbol und kurzem Namen.",
       "desc": "Lautstärke pro App wie am Mischpult, Mikro mithören und Stimm-Effekte.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.1.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.2.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
-      "released": "2026-11-25T04:33:21.197Z"
+      "released": "2026-11-25T16:12:36.339Z"
     }
   ]
 }
