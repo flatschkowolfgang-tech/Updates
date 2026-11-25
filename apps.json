@@ -3,12 +3,12 @@
     {
       "id": "rewind",
       "name": "VIP Rewind",
-      "version": "0.6.15",
-      "notes": "Neu: Hinweis auf das VIP Hub, die neue Zentrale für alle VIP-Apps. Einmal wegklicken und er ist weg.",
+      "version": "0.6.16",
+      "notes": "Neu: Beim Clippen erscheint unten rechts eine Karte im VIP-Look mit Vorschaubild statt der Windows-Benachrichtigung.",
       "desc": "Clips aus deinen Spielen – Hotkey drücken, die letzten Sekunden sind gesichert.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.15.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.16.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/",
-      "released": "2026-11-25T00:09:21.278Z"
+      "released": "2026-11-25T17:23:16.009Z"
     },
     {
       "id": "hub",
