@@ -19,6 +19,16 @@
       "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.2.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/",
       "released": "2026-11-25T01:59:54.775Z"
+    },
+    {
+      "id": "mixer",
+      "name": "VIP Mixer",
+      "version": "0.1.0",
+      "notes": "Erste Version: Mischpult für alle Apps und Ausgänge, Solo-Knopf, Mikro mithören, Stimm-Effekte, Virtuelles Mikro (VB-CABLE) und Discord-Login mit Abzeichen.",
+      "desc": "Lautstärke pro App wie am Mischpult, Mikro mithören und Stimm-Effekte.",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.0.exe",
+      "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
+      "released": "2026-11-25T04:16:24.336Z"
     }
   ]
 }
