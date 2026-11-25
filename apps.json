@@ -23,12 +23,12 @@
     {
       "id": "mixer",
       "name": "VIP Mixer",
-      "version": "0.1.2",
-      "notes": "VIP-Apps wie VIP Hub und VIP Rewind erscheinen im Mixer mit ihrem echten Symbol und kurzem Namen.",
+      "version": "0.1.3",
+      "notes": "Neu: Soundboard – eigene Sounds (MP3 & Co.) über dein Mikro abspielen, Tasten frei belegen. Außerdem sauberer Ton beim Mithören.",
       "desc": "Lautstärke pro App wie am Mischpult, Mikro mithören und Stimm-Effekte.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.2.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.3.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
-      "released": "2026-11-25T16:12:36.339Z"
+      "released": "2026-11-25T17:06:44.733Z"
     }
   ]
 }
