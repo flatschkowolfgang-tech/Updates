@@ -23,12 +23,12 @@
     {
       "id": "mixer",
       "name": "VIP Mixer",
-      "version": "0.1.4",
-      "notes": "Soundboard: Löschen-Knopf mit mehr Abstand zum Rand.",
+      "version": "0.1.5",
+      "notes": "Soundboard: Löschen-Knopf sitzt nicht mehr am Rand, Kacheln etwas breiter.",
       "desc": "Lautstärke pro App wie am Mischpult, Mikro mithören und Stimm-Effekte.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.4.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.5.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
-      "released": "2026-11-25T17:25:44.292Z"
+      "released": "2026-11-25T17:36:15.910Z"
     }
   ]
 }
