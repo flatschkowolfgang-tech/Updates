@@ -13,12 +13,12 @@
     {
       "id": "hub",
       "name": "VIP Hub",
-      "version": "0.1.5",
-      "notes": "Updates werden im Hintergrund öfter gesucht, die Update-Karte unten rechts kommt jetzt zuverlässig (auch bei minimiertem Fenster).",
+      "version": "0.1.6",
+      "notes": "Neu: VIP Support – unten rechts die Chat-Blase anklicken und Fragen zu allen VIP-Seiten und Apps stellen.",
       "desc": "Alle VIP-Apps an einem Ort, wer gerade online ist und was es Neues gibt.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.5.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.6.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/",
-      "released": "2026-11-25T16:15:53.599Z"
+      "released": "2026-11-25T16:35:05.059Z"
     },
     {
       "id": "mixer",
