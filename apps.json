@@ -47,7 +47,7 @@
       "id": "mixer",
       "name": "VIP Mixer",
       "version": "0.2.0",
-      "notes": "Aufgeräumt: VIP Mixer regelt jetzt nur noch die Lautstärke – ein Pult für Ausgänge, Mikro und Apps. Stimm-Effekte, Mithören, Soundboard und Treiber sind raus.",
+      "notes": "Aufgeräumt: VIP Mixer regelt jetzt nur noch die Lautstärke – ein Pult für Ausgänge, Mikro und Apps. Stimm-Effekte, Mithören, Soundboard und Treiber sind vorerst raus, weil sie eine sehr verbuggte Alpha waren. Sie kommen eventuell wieder, das braucht aber längere Tests und kann dauern.",
       "desc": "Lautstärke pro App, Ausgang und Mikro – wie am Mischpult.",
       "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.2.0.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
