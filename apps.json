@@ -13,12 +13,12 @@
     {
       "id": "hub",
       "name": "VIP Hub",
-      "version": "0.1.7",
-      "notes": "Neu: Spielebibliothek – alle deine Spiele aus Steam, Epic, Ubisoft, GOG, EA, Battle.net und FiveM an einem Ort, mit Bildern, Spielzeit und Spielen-Knopf. Freiwillig: sehen, wer aus der Lounge ein Spiel auch hat.",
+      "version": "0.1.8",
+      "notes": "„Öffnen“ startet Apps wieder richtig (statt „Spiel nicht gefunden“). VIP Mixer zeigt die neuen Funktionen.",
       "desc": "Alle VIP-Apps an einem Ort, wer gerade online ist und was es Neues gibt.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.7.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.8.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/",
-      "released": "2026-11-25T21:20:17.862Z"
+      "released": "2026-11-26T00:10:43.371Z"
     },
     {
       "id": "mixer",
