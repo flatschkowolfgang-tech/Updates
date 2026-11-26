@@ -23,12 +23,12 @@
     {
       "id": "mixer",
       "name": "VIP Mixer",
-      "version": "0.1.5",
-      "notes": "Soundboard: Löschen-Knopf sitzt nicht mehr am Rand, Kacheln etwas breiter.",
-      "desc": "Lautstärke pro App wie am Mischpult, Mikro mithören und Stimm-Effekte.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.1.5.exe",
+      "version": "0.2.0",
+      "notes": "Aufgeräumt: VIP Mixer regelt jetzt nur noch die Lautstärke – ein Pult für Ausgänge, Mikro und Apps. Stimm-Effekte, Mithören, Soundboard und Treiber sind raus.",
+      "desc": "Lautstärke pro App, Ausgang und Mikro – wie am Mischpult.",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.2.0.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
-      "released": "2026-11-25T17:36:15.910Z"
+      "released": "2026-11-26T00:02:03.771Z"
     }
   ]
 }
