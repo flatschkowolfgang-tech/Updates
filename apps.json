@@ -3,12 +3,12 @@
     {
       "id": "rewind",
       "name": "VIP Rewind",
-      "version": "0.6.16",
-      "notes": "Neu: Beim Clippen erscheint unten rechts eine Karte im VIP-Look mit Vorschaubild statt der Windows-Benachrichtigung.",
+      "version": "0.6.17",
+      "notes": "Umbenennen von Clips klappt jetzt auch beim ersten Versuch (kein „resource busy“-Fehler mehr).",
       "desc": "Clips aus deinen Spielen – Hotkey drücken, die letzten Sekunden sind gesichert.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.16.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.17.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/",
-      "released": "2026-11-25T17:23:16.009Z"
+      "released": "2026-11-26T00:07:27.004Z"
     },
     {
       "id": "hub",
