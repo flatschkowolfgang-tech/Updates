@@ -3,12 +3,35 @@
     {
       "id": "rewind",
       "name": "VIP Rewind",
-      "version": "0.6.17",
-      "notes": "Umbenennen von Clips klappt jetzt auch beim ersten Versuch (kein „resource busy“-Fehler mehr).",
+      "version": "0.6.18",
+      "notes": "Läuft VIP Notch, kommen „Clip gespeichert“ und Co. direkt in der Insel (sonst wie bisher als Karte). VIP Notch zeigt außerdem einen roten Punkt, solange Rewind aufnimmt.",
       "desc": "Clips aus deinen Spielen – Hotkey drücken, die letzten Sekunden sind gesichert.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.17.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.18.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/",
-      "released": "2026-11-26T00:07:27.004Z"
+      "released": "2026-11-26T01:54:27.562Z",
+      "tagline": "Spiel einfach. Wenn was Krasses passiert, ist es schon gesichert.",
+      "feats": [
+        [
+          "i-key",
+          "F8 drücken",
+          "letzte Minuten als Clip"
+        ],
+        [
+          "i-window",
+          "Nur ein Fenster",
+          "z. B. nur das Spiel"
+        ],
+        [
+          "i-cut",
+          "Editor",
+          "Clips schneiden"
+        ],
+        [
+          "i-feed",
+          "Feed",
+          "Clips mit der Lounge teilen"
+        ]
+      ]
     },
     {
       "id": "hub",
