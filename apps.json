@@ -29,6 +29,40 @@
       "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.2.0.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
       "released": "2026-11-26T00:02:03.771Z"
+    },
+    {
+      "id": "notch",
+      "name": "VIP Notch",
+      "version": "0.1.0",
+      "notes": "Erste Version: Musik, Uhrzeit, Lounge online, wer mit dir im Call ist, Meldungen von Hub und Rewind direkt in der Insel und Wetter (nur mit deiner Zustimmung). Einstellungen über das Zahnrad.",
+      "desc": "Die Dynamic Island für deinen PC: Musik, Uhrzeit und wer in der Lounge online ist.",
+      "tagline": "Oben am Bildschirm: deine Musik, die Uhrzeit und wer in der Lounge ist – einfach drüberfahren.",
+      "feats": [
+        [
+          "i-sound",
+          "Musik",
+          "Titel, Cover, Play und Pause"
+        ],
+        [
+          "i-users",
+          "Im Call",
+          "wer mit dir im Sprachkanal ist"
+        ],
+        [
+          "i-news",
+          "Meldungen",
+          "Rewind-Clips und Hub-Updates in der Insel"
+        ],
+        [
+          "i-game",
+          "Spiele",
+          "verschwindet hinter Fenstern"
+        ]
+      ],
+      "info": "Wetter: nur wenn du beim ersten Start zustimmst. Dann liest VIP Notch deinen ungefähren Standort aus Windows und schickt ihn gerundet (ca. 10 km) an den Wetterdienst Open-Meteo. Gespeichert wird er nur auf deinem PC. Ausschalten jederzeit über das Zahnrad in der Insel.",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/notch/VIP-Notch-Setup-0.1.0.exe",
+      "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/notch/",
+      "released": "2026-11-26T01:44:24.132Z"
     }
   ]
 }

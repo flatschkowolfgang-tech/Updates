@@ -99,6 +99,7 @@ Object.assign(entry, {
   // Text fuer die App-Seite im Hub (Unterzeile + Funktions-Kacheln); fehlt es, bleibt der alte Stand
   ...(a.tagline && a.tagline !== true ? { tagline: a.tagline } : {}),
   ...(a.feats && a.feats !== true ? { feats: JSON.parse(a.feats) } : {}),
+  ...(a.info && a.info !== true ? { info: a.info } : {}),
   download: base + encodeURIComponent(setup),
   feed: base,
   released: new Date().toISOString(),
