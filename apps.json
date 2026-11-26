@@ -56,8 +56,8 @@
     {
       "id": "notch",
       "name": "VIP Notch",
-      "version": "0.1.3",
-      "notes": "Stabilität: Die Insel zeichnet sich jetzt immer (vorher konnte z. B. das NVIDIA-Overlay sie einfrieren, Klicks wirkten dann erst verzögert oder gar nicht). Alle Zustände prüfen sich jede Sekunde selbst und reparieren sich. Mit Protokoll für Fehlerfälle.",
+      "version": "0.1.4",
+      "notes": "Fix: Nach einem Vollbild-Spiel reagierte die Insel nicht mehr auf Klicks. Ursache war das Verstecken des Fensters – die Insel blendet sich jetzt selbst aus, das Fenster bleibt bestehen.",
       "desc": "Die Dynamic Island für deinen PC: Musik, Uhrzeit und wer in der Lounge online ist.",
       "tagline": "Oben am Bildschirm: deine Musik, die Uhrzeit und wer in der Lounge ist – einfach drüberfahren.",
       "feats": [
@@ -83,9 +83,9 @@
         ]
       ],
       "info": "Wetter: nur wenn du beim ersten Start zustimmst. Dann liest VIP Notch deinen ungefähren Standort aus Windows und schickt ihn gerundet (ca. 10 km) an den Wetterdienst Open-Meteo. Gespeichert wird er nur auf deinem PC. Ausschalten jederzeit über das Zahnrad in der Insel.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/notch/VIP-Notch-Setup-0.1.3.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/notch/VIP-Notch-Setup-0.1.4.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/notch/",
-      "released": "2026-11-26T04:20:10.514Z"
+      "released": "2026-11-26T18:43:03.078Z"
     }
   ]
 }
