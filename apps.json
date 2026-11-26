@@ -13,12 +13,12 @@
     {
       "id": "hub",
       "name": "VIP Hub",
-      "version": "0.1.8",
-      "notes": "„Öffnen“ startet Apps wieder richtig (statt „Spiel nicht gefunden“). VIP Mixer zeigt die neuen Funktionen.",
+      "version": "0.1.9",
+      "notes": "VIP Notch ist da (mit eigenem Symbol und Hinweis-Kasten). Läuft VIP Notch, kommen Update-Meldungen direkt in der Insel statt als Karte.",
       "desc": "Alle VIP-Apps an einem Ort, wer gerade online ist und was es Neues gibt.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.8.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.9.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/",
-      "released": "2026-11-26T00:10:43.371Z"
+      "released": "2026-11-26T01:49:28.989Z"
     },
     {
       "id": "mixer",
