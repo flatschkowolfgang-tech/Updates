@@ -6,6 +6,8 @@
 //
 //   node publish.mjs --app rewind --name "VIP Rewind" --version 0.6.14 --dir <Ordner mit den Dateien>
 //                    --setup VIP-Rewind-Setup-0.6.14.exe --notes "Was ist neu" [--desc "Kurzbeschreibung"]
+//                    [--tagline "Satz fuer die Hub-Seite"] [--feats '[["i-sound","Titel","Unterzeile"], …]']
+// (Die App-Release-Skripte aus dem _LAGER geben desc/tagline/feats automatisch aus package.json "vip" mit.)
 //
 // Ablauf:
 //   1. Release mit festem Namen = App-Kennung (z. B. "rewind") anlegen, falls es fehlt
@@ -94,6 +96,9 @@ Object.assign(entry, {
   version: a.version,
   notes: a.notes && a.notes !== true ? a.notes : entry.notes || "",
   ...(a.desc && a.desc !== true ? { desc: a.desc } : {}),
+  // Text fuer die App-Seite im Hub (Unterzeile + Funktions-Kacheln); fehlt es, bleibt der alte Stand
+  ...(a.tagline && a.tagline !== true ? { tagline: a.tagline } : {}),
+  ...(a.feats && a.feats !== true ? { feats: JSON.parse(a.feats) } : {}),
   download: base + encodeURIComponent(setup),
   feed: base,
   released: new Date().toISOString(),
