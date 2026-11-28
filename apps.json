@@ -3,12 +3,12 @@
     {
       "id": "rewind",
       "name": "VIP Rewind",
-      "version": "0.6.18",
-      "notes": "Läuft VIP Notch, kommen „Clip gespeichert“ und Co. direkt in der Insel (sonst wie bisher als Karte). VIP Notch zeigt außerdem einen roten Punkt, solange Rewind aufnimmt.",
+      "version": "0.6.19",
+      "notes": "Stabilität: Protokoll für Fehlerfälle und Selbstheilung – abgestürzte oder hängende Fenster laden sich selbst neu.",
       "desc": "Clips aus deinen Spielen – Hotkey drücken, die letzten Sekunden sind gesichert.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.18.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/VIP-Rewind-Setup-0.6.19.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/rewind/",
-      "released": "2026-11-26T01:54:27.562Z",
+      "released": "2026-11-28T05:22:46.153Z",
       "tagline": "Spiel einfach. Wenn was Krasses passiert, ist es schon gesichert.",
       "feats": [
         [
