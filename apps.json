@@ -36,12 +36,12 @@
     {
       "id": "hub",
       "name": "VIP Hub",
-      "version": "0.1.9",
-      "notes": "VIP Notch ist da (mit eigenem Symbol und Hinweis-Kasten). Läuft VIP Notch, kommen Update-Meldungen direkt in der Insel statt als Karte.",
+      "version": "0.1.10",
+      "notes": "Stabilität: Protokoll für Fehlerfälle (auch bei Installationen) und Selbstheilung – abgestürzte oder hängende Fenster laden sich selbst neu.",
       "desc": "Alle VIP-Apps an einem Ort, wer gerade online ist und was es Neues gibt.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.9.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/VIP-Hub-Setup-0.1.10.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/hub/",
-      "released": "2026-11-26T01:49:28.989Z"
+      "released": "2026-11-28T05:24:51.214Z"
     },
     {
       "id": "mixer",
