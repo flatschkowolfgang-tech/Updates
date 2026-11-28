@@ -46,12 +46,35 @@
     {
       "id": "mixer",
       "name": "VIP Mixer",
-      "version": "0.2.0",
-      "notes": "Aufgeräumt: VIP Mixer regelt jetzt nur noch die Lautstärke – ein Pult für Ausgänge, Mikro und Apps. Stimm-Effekte, Mithören, Soundboard und Treiber sind vorerst raus, weil sie eine sehr verbuggte Alpha waren. Sie kommen eventuell wieder, das braucht aber längere Tests und kann dauern.",
+      "version": "0.2.1",
+      "notes": "Stabilität: Protokoll für Fehlerfälle und Selbstheilung – abgestürzte oder hängende Fenster laden sich selbst neu, der Audio-Helfer startet bei Problemen automatisch neu.",
       "desc": "Lautstärke pro App, Ausgang und Mikro – wie am Mischpult.",
-      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.2.0.exe",
+      "download": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/VIP-Mixer-Setup-0.2.1.exe",
       "feed": "https://github.com/flatschkowolfgang-tech/Updates/releases/download/mixer/",
-      "released": "2026-11-26T00:02:03.771Z"
+      "released": "2026-11-28T05:18:41.554Z",
+      "tagline": "Dein Sound, voll im Griff: jede App, jeder Ausgang und dein Mikro mit eigenem Regler.",
+      "feats": [
+        [
+          "i-sound",
+          "Mischpult",
+          "jede App ein Regler"
+        ],
+        [
+          "i-users",
+          "Solo-Knopf",
+          "nur eine App hören"
+        ],
+        [
+          "i-refresh",
+          "Ausgang wechseln",
+          "Lautsprecher oder Headset per Klick"
+        ],
+        [
+          "i-check",
+          "Leicht & schnell",
+          "kein Treiber, keine Extras"
+        ]
+      ]
     },
     {
       "id": "notch",
